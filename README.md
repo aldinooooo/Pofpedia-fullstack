@@ -82,6 +82,4 @@ Ensure you have the following installed:
 
 Contributions are welcome! If you have any ideas or improvements, feel free to submit a pull request or open an issue.
 
-## License
 
-This project is licensed under the MIT License.
